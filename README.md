@@ -11,5 +11,5 @@ In this project we see an implementation of speech recognition using MFCC and Co
 * LSTM
 
 ### Data
-Data of this implementation includes 65,000 one-second long utterances of 30 short words.
+Data of this implementation includes 65,000 one-second long utterances of 30 short words.<br />
 You can download this dataset in [this](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge) link.
